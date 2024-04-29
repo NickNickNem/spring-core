@@ -1,4 +1,4 @@
-package hello.order;
+package hello.core.order;
 
 import hello.core.discount.DiscountPolicy;
 import hello.core.discount.FixDiscountPolicy;
